@@ -1,0 +1,29 @@
+{
+  "name": "onenode",
+  "version": "0.0.0",
+  "description": "first project in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amgra77/onenode.git"
+  },
+  "keywords": [
+    "first",
+    "node"
+  ],
+  "author": "Alejandro Moreno <carlos_y_laura@hotmail.com>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/amgra77/onenode/issues"
+  },
+  "dependencies": {
+    "chai": "^3.2.0",
+    "express": "^4.13.2",
+    "mocha": "^2.2.5",
+    "mongoose": "^4.1.0"
+  },
+  "homepage": "https://github.com/amgra77/onenode"
+}
