@@ -1,2 +1,2 @@
 # onenode
-First project in node js
+First project in nodejs and mongo
